@@ -1,11 +1,11 @@
-import Register from "./pages/Register";
-import './style.scss'
+import Home from "./pages/Home";
+import './style.css'
 
 
 function App() {
   return (
     <>
-    <Register/>
+    <Home/>
     </>
   );
 }
